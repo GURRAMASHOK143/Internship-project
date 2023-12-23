@@ -1,0 +1,25 @@
+body{
+    background-color: #B3C890;
+}
+h1{
+    font-size: 5rem;
+    color:#fff;
+    background-color: #643843;
+    
+}
+.details{
+    padding-left: 20cm;
+    font-size: 14mm;
+}
+button{
+    font-size: 2rem;
+    color:#fff;
+    background-color:#643843;
+    margin-left: 3cm;
+}
+input{
+    font-size: 8mm;
+}
+label{
+    font-size: 8mm;
+}

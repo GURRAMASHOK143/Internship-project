@@ -1,0 +1,19 @@
+body{
+    background-color: #B3C890;
+}
+h1{
+    font-size: 5rem;
+    color:#fff;
+    background-color: #643843;
+    
+}
+p{
+    font-size: 3rem;
+    margin-left: 17cm;
+}
+button{
+    font-size: 3rem;
+    color:#fff;
+    background-color:#643843;
+    margin-left: 20cm;
+}

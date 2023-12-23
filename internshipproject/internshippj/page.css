@@ -1,0 +1,62 @@
+body{
+    background-color: #B3C890;
+}
+h1{
+    font-size: 5rem;
+    color:#fff;
+    background-color: #643843;
+    
+}
+button{
+    font-size: 3rem;
+    color:#fff;
+    background-color:#643843;
+    }
+.signin{
+    padding-left: 45cm;
+}    
+input{
+    font-size: 3rem;
+    padding-left: 11cm;
+    background-color:#fff;
+
+}
+h2{
+    color:#fff;
+    background-color: #643843;
+    font-size:4rem;
+}
+.poster{
+    
+    object-fit: contain;
+    max-height: 250px;
+    transition: transform 420ms;
+
+}
+.poster:hover{
+    transform: scale(1.09);
+
+}
+.arrow{
+    color: #fff;
+    padding-left: 48cm;
+}
+p{
+    font-size: 4rem;
+}
+.para{
+    font-size: 2rem;
+}
+
+.showmore{
+    margin: auto;
+}
+.profile{
+    margin-left: 48cm;
+    }
+.favorite{
+    margin-left: 47cm; 
+}    
+.endtitle{
+    padding-left: 18cm;
+}

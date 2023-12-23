@@ -1,0 +1,25 @@
+body{
+    background-color: #B3C890;
+}
+h1{
+    font-size: 5rem;
+    color:#fff;
+    background-color: #643843;
+    
+}
+p{
+    font-size: 3rem;
+    margin-left: 17cm;
+}
+.goback{
+    font-size: 3rem;
+    margin-left: 3rem;
+
+}
+.arrow{
+    padding-left: 23cm;
+}
+.crossover{
+    padding-left: 23cm;
+    color: red;
+}
